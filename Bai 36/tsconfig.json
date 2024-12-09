@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "js", //biên dịch vào thư mục js
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "target": "ES6", //cho phép TypeScript biên dịch ra ES6
+        "module": "commonjs", //CommonJs là tiêu chuẩn được sử dụng trong NodeJs để làm việc với các module
+    }
+}
