@@ -249,10 +249,10 @@
 // console.log(a);
 
 //15. Kiểu Unknown
-let a: unknown = 20;
+// let a: unknown = 20;
 
-console.log(a);
+// console.log(a);
 
-a = "Le Hai Lam";
-console.log(a);
+// a = "Le Hai Lam";
+// console.log(a);
 
